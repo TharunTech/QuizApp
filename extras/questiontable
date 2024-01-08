@@ -1,0 +1,5 @@
+1,JAVA,Easy,class,interface,extends,implements,Which Java Keyword is used to create a subclass?,extends
+2,JAVA,Easy,true,false,0,null,"In Java, what is the default value of an initialized boolean variable?",false
+3,JAVA,Medium,100,127,255,999,Maximum value for byte in java,127
+4,Python,Easy,.py,.env,.exe,.class,What is the file format used in Python,.py
+5,JAVA,Easy,True,False,EitherOR,NULL,Does Java Have Pointers ?,False
